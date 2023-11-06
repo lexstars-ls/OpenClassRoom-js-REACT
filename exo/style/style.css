@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(42, 112, 165);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+ .card{
+    height: 200px;
+    width: 400px;
+ }
+img{
+    margin: 30px;
+    width: 350px;
+    border-radius: 3%;
+    
+  
+}
+.availability{
+    display: none; 
+}
